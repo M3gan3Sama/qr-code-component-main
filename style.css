@@ -44,17 +44,17 @@ main > img {
   width: 100%;
   height: auto;
   border-radius: 8px;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
 }
 
 main > section {
   text-align: center;
-  padding: 0 20px;
+  padding: 0 16px;
 }
 
 h1 {
-  font-size: 1.4rem;
-  margin-bottom: 20px;
+  font-size: 1.5rem;
+  margin-bottom: 22px;
   font-weight: 700;
   color: var(--dark-blue);
 }
